@@ -4,7 +4,7 @@ This file 'governance.py' makes it easy to interact with algorand Governance whi
 completely open source. The most important functionalities
 are governance.commit() and governance.voting(), but if this file is run directly
 the user is asked to commit or vote in governance, and is guided through the process.
-
+  
 """
 import algorandWallet as aw
 import AlgoExplorerAPI as ae
